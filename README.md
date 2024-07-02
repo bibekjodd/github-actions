@@ -3,7 +3,7 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 <!-- YOUTUBE:START -->
-- [I Built 100 Homes And Gave Them Away!](https://www.youtube.com/watch?v=KkCXLABwHP0)
+- [I Built 100 Houses And Gave Them Away!](https://www.youtube.com/watch?v=KkCXLABwHP0)
 - [World’s Deadliest Obstacle Course!](https://www.youtube.com/watch?v=PWirijQkH4M)
 - [$10,000 Every Day You Survive In The Wilderness](https://www.youtube.com/watch?v=U_LlX4t0A9I)
 - [Sprinting with More and More Money](https://www.youtube.com/watch?v=T8I165Qxeo8)
