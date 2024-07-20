@@ -3,11 +3,11 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 <!-- YOUTUBE:START -->
+- [Spot The Fake Animal For $10,000](https://www.youtube.com/watch?v=8bTQMDM4qvY)
 - [50 YouTubers Fight For $1,000,000](https://www.youtube.com/watch?v=4SNThp0YiU4)
 - [Pass The Phone To…](https://www.youtube.com/watch?v=XhuisK0bTSA)
 - [How Many Balloons Does It Take To Fly?](https://www.youtube.com/watch?v=lkCRPp7cnP8)
 - [I Built 100 Houses And Gave Them Away!](https://www.youtube.com/watch?v=KkCXLABwHP0)
-- [World’s Deadliest Obstacle Course!](https://www.youtube.com/watch?v=PWirijQkH4M)
 <!-- YOUTUBE:END -->
 
 Currently, two official plugins are available:
