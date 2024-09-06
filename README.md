@@ -3,11 +3,11 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 <!-- YOUTUBE:START -->
+- [Will A Guitar Boat Hold My Weight?](https://www.youtube.com/watch?v=Jo7sfpeWqwE)
 - [Real Or Cake For $10,000](https://www.youtube.com/watch?v=QtD-CeUdRUQ)
 - [7 Days Stranded In A Cave](https://www.youtube.com/watch?v=ndAQfTzlVjc)
 - [Running With Bigger And Bigger Feastables](https://www.youtube.com/watch?v=AydS-vA3qa4)
 - [Survive 100 Days In Nuclear Bunker, Win $500,000](https://www.youtube.com/watch?v=UPrkC1LdlLY)
-- [Spot The Fake Animal For $10,000](https://www.youtube.com/watch?v=8bTQMDM4qvY)
 <!-- YOUTUBE:END -->
 
 Currently, two official plugins are available:
