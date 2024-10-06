@@ -3,11 +3,11 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 <!-- YOUTUBE:START -->
+- [Find The Real MrBeast, Win $10,000](https://www.youtube.com/watch?v=Kt2HvqRruHQ)
 - [How Many Twins Can You Spot?](https://www.youtube.com/watch?v=IHNQhb-mjZc)
 - [Spot The Difference, Win $10,000](https://www.youtube.com/watch?v=vDrSCXFMAKk)
 - [100 Identical Twins Fight For $250,000](https://www.youtube.com/watch?v=snX5YyflrGw)
 - [Running With Bigger And Bigger Lunchlys](https://www.youtube.com/watch?v=nbzQdlWrcnk)
-- [Holding Bigger And Bigger Dogs](https://www.youtube.com/watch?v=8krJy31Diow)
 <!-- YOUTUBE:END -->
 
 Currently, two official plugins are available:
