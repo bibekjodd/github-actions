@@ -3,10 +3,10 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 <!-- YOUTUBE:START -->
+- [Never Doing This Again…](https://www.youtube.com/watch?v=LJDN7dzrErg)
 - [Ronaldo Teaches Me How To SIUU](https://www.youtube.com/watch?v=SWc8fI_9iqA)
 - [Beat Ronaldo, Win $1,000,000](https://www.youtube.com/watch?v=0BjlBnfHcHM)
 - [Confronting Ronaldo](https://www.youtube.com/watch?v=HcL1EQ5qD_g)
-- [Giving A Stranger $1,000,000](https://www.youtube.com/watch?v=yf_C8penA9k)
 - [How Many Balloons To Make A Store Fly?](https://www.youtube.com/watch?v=dc089EZRGcg)
 <!-- YOUTUBE:END -->
 
