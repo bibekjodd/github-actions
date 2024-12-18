@@ -6,8 +6,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - [Fight For $5,000,000](https://www.youtube.com/watch?v=Fa2fBRhy1jM)
 - [Bring Me Back Snow From The North Pole](https://www.youtube.com/watch?v=DBPYB8WkkDc)
 - [I Got T-Series To Subscribe To Me](https://www.youtube.com/watch?v=zvBXpoBegwE)
-- [Never Doing This Again…](https://www.youtube.com/watch?v=LJDN7dzrErg)
 - [Ronaldo Teaches Me How To SIUU](https://www.youtube.com/watch?v=SWc8fI_9iqA)
+- [Beat Ronaldo, Win $1,000,000](https://www.youtube.com/watch?v=0BjlBnfHcHM)
 <!-- YOUTUBE:END -->
 
 Currently, two official plugins are available:
